@@ -1,0 +1,4 @@
+//mongo db connection
+first create a cluster , then conenct the production_url with server and for local you have to connect through mongodb connection url - mongodb://lcoalhost:27017/restapi.
+
+Then write the userCtrl logic for testing,then connect the controller to the route path .
